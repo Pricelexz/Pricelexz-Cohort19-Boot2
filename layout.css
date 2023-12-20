@@ -1,0 +1,91 @@
+.container1{
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+
+}
+
+
+.container{
+    height: 70vh;
+    width: vh;
+   
+}
+
+.header{
+width: 99%;
+
+}
+
+
+.c12{
+
+    width:97.2vh;
+    margin-left: 12px;
+    
+}
+
+
+.c12 span{
+   
+    align-items: centre;
+    line-height: 20vh;
+}
+
+.content-1{
+    background-color:rgb(198, 144, 248);
+    width:97.2vh;
+    height: 20vh;
+   
+}
+
+.content-1 h4{
+   
+    align-items: centre;
+    line-height: 20vh;
+}
+
+.content-2{
+
+    width: 47.3vh;
+    height: 20vh;
+    text-align: center;
+
+}
+
+.content-3{
+
+    width: 47.3vh;
+    text-align: center;
+
+}
+
+
+.col1{
+    background-color: rgb(117, 199, 253);
+}
+
+.col1 h1{
+    text-align: center;
+
+
+
+}
+
+.sb{
+    margin: auto;
+    text-align: centre;
+}
+
+.sbc{
+    height: 45vh;
+}
+
+
+
+.footer{
+    height: 8vh;
+    text-align: center;
+ 
+}
